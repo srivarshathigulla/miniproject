@@ -106,7 +106,7 @@ elif page == "About":
     We're here to make your experience smoother, faster, and more engaging.
     Whether you’re looking for answers, support, or just exploring, our intelligent assistant is designed to help you 24/7.
     """)
-    st.video("https://www.youtube.com/watch?v=8V20h2RkZHg")
+    st.video("https://youtu.be/FCcg1L0PCD4")
 
 # ----- CONTACT -----
 elif page == "Contact":
